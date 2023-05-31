@@ -200,7 +200,11 @@ dominicks_98_plotly <- dominicks_98_plot %>%
 
 
 # Print each modified plot
-invisible(map(dominicks_98_plotly, print))
+dominicks_98_plotly[[1]]
+dominicks_98_plotly[[2]]
+dominicks_98_plotly[[3]]
+dominicks_98_plotly[[4]]
+dominicks_98_plotly[[5]]
 ```
 
 ```{r}
