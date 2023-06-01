@@ -18,6 +18,33 @@ toc: true
 tof: true
 ---
 
+```{=html}
+<div class="center">The files has been split into Task1 and one for Task 2, 3 and 4. This has been done after we recieved an email telling us we needed this to deliver. The Full project is the unedited version.</div>
+<div class="center" style="display: flex; justify-content: space-between; margin-top: 20px;">
+      <div style="width: 45%; position: relative;">
+        <div class="content-overlay">
+          <div class="text-overlay">If you prefer to use the GitHub hosted files, then use these links</div>
+            <a href="https://danieljoha.github.io/Sok-1005-Data_science_project/3_11_Task1_SOK1005_Project_V23.html" class="larger">Task 1</a>
+            <br>
+            <a href="https://danieljoha.github.io/Sok-1005-Data_science_project/3_11_Task2_3_4_SOK1005_Project_V23.html" class="larger">Tasks 2, 3 and 4</a>
+            <br>
+            <a href="https://danieljoha.github.io/Sok-1005-Data_science_project/index.html" class="larger">Full project (Recommended)</a>
+        </div>
+    </div>
+    <div style="width: 45%; position: relative;">
+        <div class="content-overlay">
+          <div class="text-overlay">If you have downloaded the files, then use these links</div>
+            <a href="3_11_Task1_SOK1005_Project_V23.html" class="larger">Task 1</a>
+            <br>
+            <a href="3_11_Task2_3_4_SOK1005_Project_V23.html" class="larger">Tasks 2, 3 and 4</a>
+            <br>
+            <a href="index.html" class="larger">Full project (Recommended)</a>
+        </div>
+    </div>
+</div>
+```
+
+
 ## Task 1
 
 We have now been hired as analysts at Insight Analytics (IA), and the company that "owns" our data wants to develop a system that can report sales for all their outlets in the group. To demonstrate what we can deliver, they have announced a tender competition, and our task is to participate in the competition by solving a series of tasks.
@@ -292,10 +319,10 @@ Some of the code used to create some of the figures and datawrangling has been t
 
 ### Task 1
 
-In the beginning of Task 1 there has been use for ChatGPT to help define the start of "week 1" as we were unsure of how to convert the weekly data to date but it gave us the idea which we used to create the code. Codeline 111 and 119
+In the beginning of Task 1 there has been use for ChatGPT to help define the start of "week 1" as we were unsure of how to convert the weekly data to date but it gave us the idea which we used to create the code. Codeline 136 and 146
 
-We used ChatGPT to enter in the variable names after posting the variable names from the PDF. Codelines 130-140
+We used ChatGPT to enter in the variable names after posting the variable names from the PDF. Codelines 157-67
 
-In the code line 224 we had help from ChatGPT to write the REGEX code to help us pick out the brands as the brands had weird names with changing use of letters and such.
+In the code line 251 we had help from ChatGPT to write the REGEX code to help us pick out the brands as the brands had weird names with changing use of letters and such.
 
 Finally we have used ChatGPT to help us translate the documentation we had made for Task1 to english by promting it with "translate to english" and adding our text. This was done to help grade the task.
